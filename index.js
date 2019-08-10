@@ -11,7 +11,7 @@ const random = Math.random()
 const mod = 20 % 8
 const max = Math.max(1,2,3,5,20)
 
-// console.log(multiply(2,4))
-// console.log(random())
+// console.log(multiply)
+// console.log(random)
 // console.log(mod)
-// console.log(max(1,2,3,4,100))
+// console.log(max)
